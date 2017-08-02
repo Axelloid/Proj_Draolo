@@ -1,0 +1,59 @@
+::-moz-selection {
+  color: #fff;
+  background-color: #A7CB00;
+}
+
+::selection {
+  color: #fff;
+  background-color: #A7CB00;
+}
+
+.carousel-indicators li.active,
+.carousel-indicators li:hover,
+.creativeoneimage .left-icon,
+.creativeoneimage .right-icon,
+.btn-border,
+input:focus,
+textarea:focus,
+.owl-blog-gallery .owl-controls .owl-page.active span,
+.owl-blog-gallery .owl-controls.clickable .owl-page:hover span,
+.blog-grid blockquote,
+.service-3 .service:hover {
+  border-color: #A7CB00;
+}
+
+.theme-color,
+.bs-hero.full-screen .carousel-inner .item .bs-info a:hover,
+.dropdown-menu > li > a:hover,
+.drop-work-item .desc .share a:hover,
+.drop-work-item .desc .share a:focus,
+.btn-border,
+.blog-grid .blog-title a:hover,
+.blog-grid .meta-share a:hover,
+.blog-grid .post-meta-date a:hover,
+.page-title .breadcrumb a:hover,
+.service-3 .service .icon i {
+  color: #A7CB00;
+}
+
+.drop-service-1 .service:hover .icon,
+.creativeoneimage .left-icon,
+.creativeoneimage .right-icon,
+.social-footer a:hover,
+.social-footer a:focus,
+.btn-border:before, .btn-border:after,
+.btn-border span:before,
+.btn-border span:after,
+.blog-grid blockquote:hover,
+.btn-bg:hover,
+.btn-bg:focus,
+.service-2 .service .icon,
+.mn-sub li a:hover,
+.inner-nav ul li .mn-sub li a:hover,
+.mn-sub li a.active {
+  background-color: #A7CB00;
+}
+
+.drop-work-item .hover-overlay {
+  background-color: rgba(167, 203, 0, 0.7);
+}

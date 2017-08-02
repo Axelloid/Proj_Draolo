@@ -1,0 +1,38 @@
+/*write some responsive code here */
+@media (min-width: 1200px) {
+  
+}
+/* Portrait tablets and medium desktops */
+@media (min-width: 992px) and (max-width: 1199px) {
+  
+}
+/* Portrait tablets and small desktops */
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+/* Landscape phones and portrait tablets */
+@media (max-width: 767px) {
+   .creativeoneimage {
+		.right-icon {
+			top: 55%;
+			right: 19%;
+		}
+	}
+}
+/* Landscape phones and smaller */
+@media (max-width: 480px) {
+	.creativeoneimage {
+		.left-icon {
+			top: 32%;
+		}
+		.right-icon {
+			top: 38%;
+			right: 25%;
+		}
+	}
+}
+/* portrait phones */
+@media (min-width: 320px) and (max-height: 420px) {
+
+}
+
